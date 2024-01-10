@@ -1,91 +1,61 @@
----
-layout: cv
-title: Isaac Newtons's CV
----
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# SAMUEL BROWN
+Location: United Kingdom  
+Phone: 07469735547  
+Email: samuellbrown1@gmail.com  
+LinkedIn: [https://www.linkedin.com/in/samuel-b-569810134/](https://www.linkedin.com/in/samuel-b-569810134/)  
+GitHub: [https://github.com/samllbrown](https://github.com/samllbrown)
 
-<div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
-</div>
+## EXPERIENCE
 
+### SEPTEMBER 2023 - PRESENT
+**Associate Software Developer, ADP**  
+- Actively involved in the development and implementation of testing protocols for tax policies, ensuring compliance with HMRC standards and accuracy.
+- Responsible for creating comprehensive documentation detailing testing procedures, software modifications, and troubleshooting guides.
+- Worked with a team to design and produce a web application to fill in and approve I-9 Forms (US Employment forms).
 
-## Currently
+_Technologies used: Kotlin, Java, Bitbucket, Git, Cucumber/Groovy, Jira_
 
-Standing on the shoulders of giants
+### SEPTEMBER 2020 – AUGUST 2023
+**Android App Developer, Wildgoose Events**  
+- Worked part-time during term and full time in holidays, initially working on small features and bugs, later producing larger features such as an augmented reality functionality.
+- In the last year, handled internal support, external client queries, code reviews, and design reviews.
 
-### Specialized in
+_Technologies used: Kotlin, Java, Ruby on Rails, Git, GitHub, Android Studio, Zendesk_
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+### NOVEMBER 2019 – SEPTEMBER 2020
+**Customer Assistant, Wokingham Bowling Alley**
 
+### OCTOBER 2018 – OCTOBER 2019
+**Customer Assistant, Wickes**
 
-### Research interests
+## EDUCATION
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+### SEPTEMBER 2020 - 2023
+**BSc Computer Science 2:1, Swansea University**  
+- Final year project: Developed an AI-based system to predict criminal activities using advanced machine learning algorithms and analyzing different predictive models with historical crime data.
 
+_Technologies used: Spark ADA, Kotlin, Haskell, Python, SQL, PHP, Java, TensorFlow_
 
-## Education
+### SEPTEMBER 2018 - JULY 2020
+**Triple Extended BTEC in IT, UTC Reading**  
+- Won the KS4 Award for best performance in computer science.
+- Finished with a D*DD, equivalent to AAA.
 
-`1654-1660`
-__The King's School, Grantham.__
+## WORK EXPERIENCE
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+### 2019 (1 WEEK)
+**Cisco, Reading/Heathrow**  
+- Learned about video streaming and worked on a program comparing render quality of two video streams.
 
-- Sizar
+### 2018 (1 WEEK)
+**Airbyte, UTC Reading**  
+- Developed an Android application using Firebase to show a database of musicians.
 
-`1667 - death`
-__Trinity College, Cambridge__
+### JULY 2019 (1 WEEK)
+**Fotspot, Engdanskot**
 
-- Fellow
-
-
-
-## Awards
-
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
-
-
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
-
-
-<!-- ### Footer
-
-Last updated: May 2013 -->
-
-
+## Other Qualifications
+- MTA: Introduction to Programming using Block-Based Languages - Certified 2019
+- MTA: Mobility and Device Fundamentals - Certified 2019
+- Microsoft Word (Office 2016) - Certified 2019
+- Computing Fundamentals - Certiport - Certified 2019
